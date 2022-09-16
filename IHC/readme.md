@@ -26,7 +26,19 @@
         <li>Para facilitar a navegação por seus produtos, a <em>UOL</em> disponibiliza uma divisão por categorias dos mesmos.</li>
     </ul>
     <div align="center">
-        <img alt="Navegabilidade melhorada por categorização." src="https://imgur.com/QOIVpSQ.png">
+        <img alt="Código bem-estruturado." src="https://imgur.com/QOIVpSQ.png">
+    </div>
+</details>
+
+<details>
+    <summary><b>4.1 Compatible</b></summary>
+    <br>
+    <ul>
+        <li>O objetivo dessa é maximizar ao máximo as chances de fácil entendimento de usuários, atuais ou futuros, incluindo manutenção desses códigos/páginas.</li>
+        <li>Para ilustrar esse ponto, usei o <em>código do meu grupo do API</em>, no qual é possível perceber que as <em>divs</em> têm nomes lógicos de fácil percepção, além de estarem seguindo uma estrutura padrão, em ninho.</li>
+    </ul>
+    <div align="center">
+        <img alt="Navegabilidade melhorada por categorização." src="https://i.imgur.com/wfRA2M3.png">
     </div>
 </details>
 
