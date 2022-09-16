@@ -6,9 +6,8 @@
 
 ### Exemplos Positivos ✔️
 
-
 <details>
-    <summary><b>1.3 Adaptable </b></summary>
+    <summary><b>1.3 Adaptable</b></summary>
     <br>
     <ul>
         <li>Nesse ponto é abordado a questão de um mesmo conteúdo poder ser apresentado em layouts mais simples sem perder informações e coerência.</li>
@@ -19,16 +18,28 @@
     </div>
 </details>
 
+<details>
+    <summary><b>2.4 Navigable</b></summary>
+    <br>
+    <ul>
+        <li>Essa heurística visa a navegabilidade fácil, rápida e intuitiva por parte do usuário para encontrar o que precisam.</li>
+        <li>Para facilitar a navegação por seus produtos, a <em>UOL</em> disponibiliza uma divisão por categorias dos mesmos.</li>
+    </ul>
+    <div align="center">
+        <img alt="Navegabilidade melhorada por categorização." src="https://imgur.com/QOIVpSQ.png">
+    </div>
+</details>
+
 ### Exemplos Negativos ❌
 
 <details>
-	<summary><b>1.4 Distinguishable </b></summary>
+	<summary><b>3.1 Readable</b></summary>
     <br>
     <ul>
-        <li>O objetivo dessa heurística é justamente priorizar a visibilidade por parte do usuário.</li>
-        <li>Objetivo esse que deixa a desejar no site da famosa marca <em>Saint Laurent</em>, que conta com textos demasiadamente pequenos e, em alguns casos, com pouco contraste com a cor de fundo, <em>como podemos observar na parte central da imagem.</li>
+        <li>O objetivo dessa heurística é justamente priorizar a leitura confortável por parte do usuário.</li>
+        <li>Objetivo esse que deixa a desejar no site da famosa marca <em>Saint Laurent</em>, que conta com textos demasiadamente pequenos.</li>
     </ul>
     <div align="center">
-        <img alt="Textos muito pequenos e pouco contraste." src="https://i.imgur.com/RxrePIn.png">
+        <img alt="Textos muito pequenos." src="https://i.imgur.com/RxrePIn.png">
     </div>
 </details>
