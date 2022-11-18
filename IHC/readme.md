@@ -55,3 +55,16 @@
         <img alt="Textos muito pequenos." src="https://i.imgur.com/RxrePIn.png">
     </div>
 </details>
+
+<details>
+	<summary><b>3.2 Predictable</b></summary>
+    <br>
+    <ul>
+        <li>Essa heurística visa a navegação preditiva, ou seja, intuitiva, facilitando e providenciando uma melhor experiência por parte do usuário.</li>
+        <li>O site de informações acadêmicas dos alunos da <em>Fatec - Prof. Jessen Vidal</em>, na página inícial para divulgação de anúncios gerais, conta com diversas imagens-texto de tamanhos variados e alguns tem link para outras páginas e outras não, porém não possuem identificação alguma, ferindo o princípio de preditividade.</li>
+	<li>No exemplo abaixo, a primeira imagem não tem link, ao contrário da segunda, que tem redirecionamento a outra página web, afetando a consistência da navegabilidade.</li>
+    </ul>
+    <div align="center">
+        <img alt="Imagens-texto sem identificação se têm links ou não." src="https://i.imgur.com/HODh5gp.png">
+    </div>
+</details>
