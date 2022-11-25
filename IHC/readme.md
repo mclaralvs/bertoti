@@ -43,6 +43,18 @@
 </details>
 
 <details>
+    <summary><b>3.3 Input Assistance</b></summary>
+    <br>
+    <ul>
+        <li>O objetivo dessa é facilitar a usabilidade das páginas por parte do usuário./páginas.</li>
+        <li>Para ilustrar esse ponto, usei novamente um exemplo do <em>Google</em>, o qual sinaliza os erros no formulário de cadastro para que o usuário possa identificar mais facilmente e ajustá-los.</li>
+    </ul>
+    <div align="center">
+        <img alt="Sinalização de erros." src="https://i.imgur.com/ryaJNMr.png">
+    </div>
+</details>
+
+<details>
     <summary><b>4.1 Compatible</b></summary>
     <br>
     <ul>
