@@ -69,6 +69,30 @@
 ### Exemplos Negativos ❌
 
 <details>
+    <summary><b>1.4 Distinguishable</b></summary>
+    <br>
+    <ul>
+        <li>Essa heurística prevê designs que facilite a visualização de informações por parte do usuário por meio do contraste entre o fundo e a parte da frente, que será o destaque.</li>
+        <li>O site <em>Monk Zone</em> fere esse princípio, dificultando muito o entendimento e diferenciação de elementos, devido à cor da fonte escura juntamente ao fundo mais escuro ainda.</li>
+    </ul>
+    <div align="center">
+        <img alt="Pouco contraste entre elementos." src="https://i.imgur.com/6ra9bft.png">
+    </div>
+</details>
+
+<details>
+    <summary><b>2.3 Seizures and Physical Reactions</b></summary>
+    <br>
+    <ul>
+        <li>Essa heurística visa um design que evite possíveis desconfortos, ou até situações mais sérias, em consequência de cores e luzes piscantes.</li>
+        <li>Além do design irritante aos olhos, a mente também pode ser afetada por esse exemplo do site <em>DP Graph</em>.</li>
+    </ul>
+    <div align="center">
+        <img alt="Cores e luzes piscantes." src="https://i.imgur.com/SRr0KTD.png">
+    </div>
+</details>
+
+<details>
     <summary><b>2.4 Navigable</b></summary>
     <br>
     <ul>
