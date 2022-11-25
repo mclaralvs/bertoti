@@ -31,6 +31,18 @@
 </details>
 
 <details>
+    <summary><b>3.3 Input Assistance</b></summary>
+    <br>
+    <ul>
+        <li>O objetivo dessa é facilitar a usabilidade das páginas por parte do usuário./páginas.</li>
+        <li>Para ilustrar esse ponto, usei o site da marca de cosméticos <em>Sephora</em>, o qual disponibiliza um exemplo do movimento para alternar as guias de informações de um produto.</li>
+    </ul>
+    <div align="center">
+        <img alt="Facilitando usabilidade por exemplos de gestos." src="https://i.imgur.com/4CF1D3N.jpg" height="500">
+    </div>
+</details>
+
+<details>
     <summary><b>4.1 Compatible</b></summary>
     <br>
     <ul>
