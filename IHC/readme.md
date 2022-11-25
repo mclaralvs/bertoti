@@ -57,6 +57,18 @@
 ### Exemplos Negativos ❌
 
 <details>
+    <summary><b>2.4 Navigable</b></summary>
+    <br>
+    <ul>
+        <li>Essa heurística visa a navegabilidade fácil, rápida e intuitiva por parte do usuário para encontrar o que precisam.</li>
+        <li>Dificultando a leitura fluida e facil por parte dos leitores, o site <em>Mundo da Educação</em> peca na quantidade de propagandas que, muitas vezes, impede o foco na informação principal do texto.</li>
+    </ul>
+    <div align="center">
+        <img alt="Excesso de informações." src="https://i.imgur.com/BkU1SOc.png">
+    </div>
+</details>
+
+<details>
 	<summary><b>3.1 Readable</b></summary>
     <br>
     <ul>
